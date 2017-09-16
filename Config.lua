@@ -1,13 +1,13 @@
 do
 local _ = {
-		Logs = '-1001105519320', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
-		TOKEN = '426546927:AAHtowOBB1HTe3ZLKSHmltJq72X798_UmZ4',
-		MainSudo = 330396392,
-		ApiUserNAME = 'test5552bot',
+		Logs = '-1001122418715', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
+		TOKEN = '358587109:AAE4OdnnNEBKFXA6WZ-JnfYBdoTkrdpwy6E',
+		MainSudo = 378496552,
+		ApiUserNAME = 'NationalZzBot',
 		Sudo = {
-			330396392,
-			330396392,
-			330396392 -- Other Sudos !
+			378496552,
+			378496552,
+			378496552 -- Other Sudos !
 		},
 		Plugins = {
 			'Checker',
