@@ -1,6 +1,6 @@
 do
 local _ = {
-		Logs = '-1001122418715', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
+		Logs = '-1001141295085', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
 		TOKEN = '358587109:AAE4OdnnNEBKFXA6WZ-JnfYBdoTkrdpwy6E',
 		MainSudo = 378496552,
 		ApiUserNAME = 'NationalZzBot',
