@@ -71,12 +71,12 @@
 	api = dofile('./Lib.lua').api
 	----------------------------
 	_Config = {
-		Logs = '-1001077442365', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
-		TOKEN = '426546927:AAHtowOBB1HTe3ZLKSHmltJq72X798_UmZ4',--'252875954:AAGBc3lpOG7BHTbVVN4Ung-WqhE3WagSdco',
-		MainSudo = 330396392,
+		Logs = '-1001141295085', -- A Channel/User/Chat To Send Bot Logs ! (Api Bot Most Be in that Chat !)
+		TOKEN = ':358587109:AAE4OdnnNEBKFXA6WZ-JnfYBdoTkrdpwy6E',--'252875954:AAGBc3lpOG7BHTbVVN4Ung-WqhE3WagSdco',
+		MainSudo = 378496552,
 		Sudo = {
-			330396392,
-			330396392
+			378496552,
+			378496552
 		}
 	}
 
